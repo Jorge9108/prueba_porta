@@ -9,6 +9,6 @@
 	exit;
 
 
-	echo "ricardo estrada";
+	echo "ricardo estrada prueba numero2";
 ?>
 
